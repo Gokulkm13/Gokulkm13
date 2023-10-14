@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gokul
 - 👀 I’m interested in ...physics
-- 🌱 I’m currently learning ...java script
+- 🌱 I’m currently learning ...React js
 - 💞️ I’m looking to collaborate on ...new projects
 - 📫 How to reach me ...
 
